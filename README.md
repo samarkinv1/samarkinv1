@@ -1,5 +1,8 @@
 ### Hi there 👋
-My name is Viacheslav.
+My name is Viacheslav. I am a Data Analyst with 4+ years of experience.
+I am familiar with various types of analytics: customer segmentation, cohort analysis, plan-fact analysis and variance analysis, financial modeling, including planning, budgeting, unit-economics modeling, A/B testing.
+I have experience with the following tools: SQL, Python, Power BI, Excel.
+Currently passionate about learning and practicing with machine learning.
 <!--
 **samarkinv1/samarkinv1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
