@@ -6,7 +6,7 @@ Currently passionate about learning and practicing with machine learning.
 
 If you wish to contact me - feel free to reach me via e-mail: vyacheslav.samarkin@gmail.com or telegram: @samarkinvi
 
-Peace ✌️
+#### Peace ✌️
 <!--
 **samarkinv1/samarkinv1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
